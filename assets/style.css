@@ -38,6 +38,10 @@ p {
     border-radius: 15px;
 }
 
+.card-title:hover {
+    color: var(--color-yellow);
+}
+
 .card-badge {
     background-color: var(--color-yellow);
     width: fit-content;
